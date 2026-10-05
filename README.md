@@ -1,6 +1,6 @@
 # Evaluation of Synthetic Tabular Data
 
-Data Science Lab I project, ELTE, Fall 2026.
+Data Science Lab I project
 
 ## Project overview
 
