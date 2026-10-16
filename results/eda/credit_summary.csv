@@ -1,0 +1,2 @@
+dataset,rows,cols,numeric,categorical,target,minority_share,rows_with_missing,missing_note
+Default of Credit Card Clients,30000,24,20,3,default (0/1),0.221,0,"none; undocumented codes in EDUCATION, MARRIAGE, PAY_x"

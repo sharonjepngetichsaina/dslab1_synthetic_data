@@ -1,0 +1,2 @@
+dataset,rows,cols,numeric,categorical,target,minority_share,rows_with_missing,missing_note
+Adult (UCI),48842,15,6,8,income (>50K),0.239,3620,"'?' in workclass, occupation, native-country"

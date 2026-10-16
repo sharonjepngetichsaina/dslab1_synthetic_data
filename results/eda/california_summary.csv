@@ -1,0 +1,2 @@
+dataset,rows,cols,numeric,categorical,target,minority_share,rows_with_missing,missing_note
+California Housing,20640,9,8,0,house value (regression),,0,"none; target capped at 5.00001, HouseAge capped at 52"
